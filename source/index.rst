@@ -3,20 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to coo-docs's documentation!
+Welcome to Coo-lang documentation!
 ====================================
+
+Coo is a programming language designed and implemented by pwxcoo_ independently. 
+
+.. attention:: It's pwxcoo_ undergraduate graduation project, and it exists some PL design unreasonable, please treat Coo-lang in a critical way while using.
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-   hello
-
+   
+   Commenting
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+.. _pwxcoo: https://github.com/pwxcoo
