@@ -14,7 +14,10 @@ Coo is a programming language designed and implemented by pwxcoo_ independently.
 .. toctree::
    :maxdepth: 2
    
-   Commenting
+   commenting
+   type_system
+   variables
+   function
 
 
 

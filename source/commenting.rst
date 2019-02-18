@@ -6,7 +6,7 @@ until end of line
 
 .. sourcecode:: coo
 
-    #
+    //
 
 nestable
 ---------------------
@@ -14,4 +14,4 @@ nestable
 
 .. sourcecode:: coo
 
-    (**)
+    /**/
