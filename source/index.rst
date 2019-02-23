@@ -6,18 +6,19 @@
 Welcome to Coo-lang documentation!
 ====================================
 
-Coo is a programming language designed and implemented by pwxcoo_ independently. 
+Coo is a programming language designed and implemented by pwxcoo_ independently.
 
 .. attention:: It's pwxcoo_ undergraduate graduation project, and it exists some PL design unreasonable, please treat Coo-lang in a critical way while using.
 
 
 .. toctree::
    :maxdepth: 2
-   
+
    commenting
    type_system
    variables
    function
+   control
 
 
 
