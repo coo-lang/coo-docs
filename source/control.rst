@@ -9,7 +9,7 @@ If Statement
     var x: int = 1
     if x > 0 {
         print("positive number")
-    } else x < 0 {
+    } else {
         print("negative number")
     }
 
