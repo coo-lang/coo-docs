@@ -19,6 +19,7 @@ For Statement
 .. sourcecode:: coo
 
     var a: int = 0
-    for i: int = 0; i < 10; i = i + 1 {
+    var i: int;
+    for i = 0; i < 10; i = i + 1 {
         a = a + i
     }
