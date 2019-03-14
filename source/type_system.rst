@@ -11,7 +11,7 @@ Primitive Data Type
 - :code:`string` is a sequence of characters in ASCII enclosed in double-quotes and excludes the double-quote `"` character.
 
 
-unit
+void
 ---------------------
 
-:code:`unit` is no associated value and can only be used as the return type for functions that return nothing. But you will not explicitly declare it, omit :code:`return` statement(**recommend**) or write :code:`return` will work.
+:code:`void` is no associated value and can only be used as the return type for functions that return nothing. But you will not explicitly declare it, omit :code:`return` statement(**recommend**) or write :code:`return` will work.
