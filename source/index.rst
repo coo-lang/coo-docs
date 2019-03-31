@@ -16,6 +16,7 @@ Coo has following characteristics:
 - Statically Typed
 - Simple Type Inferring
 - Lambda Expression
+- Lazy Evaluation
 - ...
 
 .. toctree::
